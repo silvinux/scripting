@@ -4,7 +4,7 @@
 #
 # NOTE  - 
 #
-# Author: Silvio Pérez <silvinux7@gmail.com>
+# Author: <silvinux7@gmail.com>
 #
 ##############################################################################
 #
